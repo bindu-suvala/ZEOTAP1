@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     git push -u origin master
     ```
 
-Now your project should be live on GitHub! If you have any questions or need further assistance, feel free to ask.
+
